@@ -20,4 +20,5 @@
 * 温馨提示：对于风控比较严格的平台建议修改完变量后，混肴后再部署，能够避免被封号，绝对安全，READAME.md为说明文件，请不要上传。
 js混肴地址：https://obfuscator.io 全部使用默认配置就好，
 * 如需进一步修改，右边的Releases中有未混淆的源代码
+
 ghcr.io/eooce/ws-2go:latest     (老王的）
